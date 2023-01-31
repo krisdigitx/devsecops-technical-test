@@ -1,0 +1,17 @@
+{
+    "name": "secure-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "dotenv": "^16.0.0",
+      "express": "^2.1.0",
+      "knex": "^0.4",
+      "pg": "^8.7.3"
+    }
+  }
