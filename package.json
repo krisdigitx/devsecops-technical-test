@@ -9,7 +9,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "dotenv": "^16.0.0",
+      "dotenv": "^16.0.3",
       "express": "^2.1.0",
       "knex": "^0.4",
       "pg": "^8.7.3"
